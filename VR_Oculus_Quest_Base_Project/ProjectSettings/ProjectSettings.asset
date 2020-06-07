@@ -164,6 +164,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.VR_Oculus_Quest_Base_Project
     Standalone: com.DefaultCompany.VROculusQuestBaseProject
   buildNumber: {}
   AndroidBundleVersionCode: 1

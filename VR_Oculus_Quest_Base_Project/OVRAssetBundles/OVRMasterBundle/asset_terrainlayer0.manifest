@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3781512935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a067f4a12f893273033dfe5a6da5d22f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f106dac3fdc2900390d84e482ab7f8f1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/NewLayer.terrainlayer
+Dependencies:
+- C:/Local Projects/Unity/17_VR_Oculus_Quest_Base_Project/VR-Oculus-Quest-Base-Project/VR_Oculus_Quest_Base_Project/OVRAssetBundles/OVRMasterBundle/asset_png0

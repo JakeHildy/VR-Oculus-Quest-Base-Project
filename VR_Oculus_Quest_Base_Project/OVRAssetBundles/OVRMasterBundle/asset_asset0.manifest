@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2456574714
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08213886c3ef89b8496487c4ba84f246
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8703e198a671d6230667f8828a9328a6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+Assets:
+- Assets/New Terrain.asset
+Dependencies:
+- C:/Local Projects/Unity/17_VR_Oculus_Quest_Base_Project/VR-Oculus-Quest-Base-Project/VR_Oculus_Quest_Base_Project/OVRAssetBundles/OVRMasterBundle/asset_terrainlayer0

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1025688384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 758c55d7815b1c8b7c92af990d0fcf7c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/floor_wood_01_dif.png
+Dependencies: []
